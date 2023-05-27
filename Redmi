@@ -1,0 +1,9 @@
+git clone https://github.com/qasimjannasimi001/AT.git
+
+ls
+
+cd AT
+
+ls
+
+python AHT.py
